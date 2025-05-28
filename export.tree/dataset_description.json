@@ -1,0 +1,21 @@
+{
+  "Name": "ds001242-mriqc",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "MRIQC",
+      "Version": "22.0.6",
+      "CodeURL": "https://github.com/nipreps/mriqc/archive/22.0.6.tar.gz"
+    }
+  ],
+  "Authors": ["OpenNeuro Preprocessing Team"],
+  "HowToAcknowledge": "Please cite our paper (https://doi.org/10.1371/journal.pone.0184661).",
+  "SourceDatasets": [
+    {
+      "URL": "https://doi.org/10.18112/openneuro.ds001242.v1.0.0",
+      "DOI": "10.18112/openneuro.ds001242.v1.0.0"
+    }
+  ],
+  "License": "This dataset is made available under the Public Domain Dedication and License v1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); in particular, while not legally required, we hope that all users of the data will cite at least one of the associated publications associated with these data and acknowledge the OpenfMRI project and National Institute on Aging(RO1AG025340; PI: M.Mather), JSPS KAKENHI (16H03750, 15K21062: PI: T.Ueno), JSPS KAKENHI (16H05959, 16KT0002, 16H02053; PI:M.Sakaki) and European Commission (CIG618600; PI:M.Sakaki) in any publication."
+}
